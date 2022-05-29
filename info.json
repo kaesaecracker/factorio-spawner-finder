@@ -1,0 +1,10 @@
+{
+    "name": "factorio-biter-finder",
+    "version": "0.0.1",
+    "title": "Biter Finder",
+    "author": "kaesaecracker",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "flib >= 0.10.0"
+    ]
+}
